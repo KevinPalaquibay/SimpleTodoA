@@ -5,7 +5,7 @@ and deleting an existing item.
 
 Submitted by: Kevin Palaquibay
 
-Time Spent: 12 hours spent in total
+Time Spent: 10 hours spent in total
 
 ##User Stories
 The following **required** functionality is completed:
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/KevinPalaquibay/SimpleTodoA/blob/master/WalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
